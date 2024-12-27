@@ -1,2 +1,2 @@
 # P2xat
-Xat senzill
+Xat textual amb servidor centralitzat
